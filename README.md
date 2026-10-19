@@ -1,6 +1,6 @@
 # Daniel Benedettini
 
-I'm an Artificial Intelligence undergraduate at the University of Pavia, Italy, on an English-taught programme jointly offered with the University of Milano-Bicocca and the University of Milan. I expect to graduate in July 2027.
+I'm an Artificial Intelligence undergraduate at the University of Pavia, Italy, on an inter-university programme with the University of Milano-Bicocca and the University of Milan, taught and assessed entirely in English. I expect to graduate in July 2027.
 
 I've always been interested in technology and enjoy the creative side of building things. AI brings these interests together: I want to understand how models work and explore what I can make with them.
 
