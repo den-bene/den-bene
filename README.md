@@ -18,7 +18,7 @@ My personal projects are also a way to learn beyond coursework, especially about
 
 ## Selected personal work
 
-- [Nodia](https://ai-front-office-kohl.vercel.app) — A full-stack workspace for customer enquiries, human-reviewed AI replies and consultant appointments, using Next.js, Supabase, Microsoft Graph and Gemini. The public homepage describes the workflow, architecture and current limitations. Source code is private; a public demo and video walkthrough are planned.
+- [Nodia](https://nodia-workspace.vercel.app) — A full-stack workspace for customer enquiries, human-reviewed AI replies and consultant appointments, using Next.js, Supabase, Microsoft Graph and Gemini. The public homepage describes the workflow, architecture and current limitations. Source code is private; a public demo and video walkthrough are planned.
 - [Mister Mind](https://www.mister-mind.it/) — Redesign of the public-facing pages, including responsive layouts, navigation and technical SEO.
 
 ## Selected academic projects
