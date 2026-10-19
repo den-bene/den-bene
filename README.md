@@ -16,7 +16,10 @@ Alongside my studies, I work in showroom reception and administrative support. S
 
 My personal projects are also a way to learn beyond coursework, especially about databases, API integrations and web application development. I use AI-assisted development tools while working to understand the code and test what I build.
 
-I have also redesigned the public-facing pages of [Mister Mind](https://www.mister-mind.it/), working on responsive layouts, navigation and technical SEO.
+## Selected personal work
+
+- [Nodia](https://ai-front-office-kohl.vercel.app) — A full-stack workspace for customer enquiries, human-reviewed AI replies and consultant appointments, using Next.js, Supabase, Microsoft Graph and Gemini. The public homepage describes the workflow, architecture and current limitations. Source code is private; a public demo and video walkthrough are planned.
+- [Mister Mind](https://www.mister-mind.it/) — Redesign of the public-facing pages, including responsive layouts, navigation and technical SEO.
 
 ## Selected academic projects
 
@@ -35,4 +38,4 @@ I'm preparing for postgraduate study in AI, computer science or data science, wh
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/daniel-benedettini-81b876443/)
+[LinkedIn](https://www.linkedin.com/in/daniel-benedettini/)
